@@ -13,3 +13,4 @@
 - [x] [Scalability](scalability)
 - [x] [Multi-partition Transactions](multi_partition_txns)
 - [x] [Hotspot Mitigation](hotspot_mitigation)
+- [x] [Disaster Recovery](disaster_recovery)
