@@ -11,3 +11,4 @@
 
 - [x] [A Five-node Deployment](five_nodes_deployment)
 - [x] [Scalability](scalability)
+- [x] [Multi-partition Transactions](multi_partition_txns)
