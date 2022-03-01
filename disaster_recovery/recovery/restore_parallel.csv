@@ -1,0 +1,5 @@
+Label,Restore snapshot (10^6 records),Replay log (10^6 records),flush cache in sync,snap_err,log_err
+8_{nn},23,28,374,0.2,0.1
+4_{nn},45,50,374,0.2,0.1
+2_{nn},82,95,374,0.4,0.5
+1_{nn},165,183,374,0.5,0.6
