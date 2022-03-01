@@ -4,6 +4,11 @@ This repository contains the raw experiment data of FileScale (https://github.co
 
 > The file with the dgraph suffix is ​​the file format of the visualization software -- DataGraph (https://www.visualdatatools.com/DataGraph/).
 
+Please see our documentation for instructions on how to install FileScale and run experiments:
+
+https://dslam-umd.github.io/docs/filescale.html
+
+
 ## Single-node Experiments
 
 - [x] [Basic Operations](basic_operations)
