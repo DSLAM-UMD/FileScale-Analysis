@@ -1,0 +1,7 @@
+label,Category,move,chmod,
+0%,VoltDB,2.920,0.058
+0%,Apache Ignite,1.50,0.089
+50%,VoltDB,7.336,3.691
+50%,Apache Ignite,3.024,2.017
+100%,VoltDB,9.453,7.16
+100%,Apache Ignite,4.441,2.872

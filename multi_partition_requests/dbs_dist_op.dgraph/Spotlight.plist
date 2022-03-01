@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>Dirty Data (%) in 10,000 files
+Latency (sec)
+Dirty Data (%) in 10,000 files
+Dist Chmod Op
+Dist Move Op
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>

@@ -19,3 +19,4 @@
 
 - [x] [Cache Misses](dbs_cache_misses)
 - [x] [Dirty Data Flush Penalty](dirty_data_flush_penalty)
+- [x] [Multi-Partition Requests](multi_partition_requests)
