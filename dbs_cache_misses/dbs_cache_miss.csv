@@ -1,0 +1,13 @@
+label,Category,latency,throughput,,
+0%,VoltDB,15,6865
+0%,Apache Ignite,15,6759
+1%,VoltDB,15,6746
+1%,Apache Ignite,15,6472
+5%,VoltDB,17,5742
+5%,Apache Ignite,18,5648
+10%,VoltDB,24,4242
+10%,Apache Ignite,19,5373
+20%,VoltDB,32,3214
+20%,Apache Ignite,21,4705
+30%,VoltDB,44,2265
+30%,Apache Ignite,25,3964

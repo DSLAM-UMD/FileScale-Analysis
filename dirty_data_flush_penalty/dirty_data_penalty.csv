@@ -1,0 +1,11 @@
+label,Category,latency,,
+10,VoltDB,0.03
+10,Apache Ignite,0.018
+100,VoltDB,0.102
+100,Apache Ignite,0.060
+1000,VoltDB,0.666
+1000,Apache Ignite,0.269
+10000,VoltDB,7.10
+10000,Apache Ignite,2.78
+100000,VoltDB,70.512
+100000,Apache Ignite,21.818

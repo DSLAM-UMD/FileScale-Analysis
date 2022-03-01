@@ -14,3 +14,8 @@
 - [x] [Multi-partition Transactions](multi_partition_txns)
 - [x] [Hotspot Mitigation](hotspot_mitigation)
 - [x] [Disaster Recovery](disaster_recovery)
+
+## The Impact of Database Systems
+
+- [x] [Cache Misses](dbs_cache_misses)
+- [x] [Dirty Data Flush Penalty](dirty_data_flush_penalty)
