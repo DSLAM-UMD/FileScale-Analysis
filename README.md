@@ -10,3 +10,4 @@
 ## Multi-server Experiments
 
 - [x] [A Five-node Deployment](five_nodes_deployment)
+- [x] [Scalability](scalability)
