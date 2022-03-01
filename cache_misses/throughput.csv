@@ -1,0 +1,4 @@
+z,x,y,hdfs,fs0,fs1,fs5,fs10,fs30,oy,ohdfs,ofs0,ofs1,ofs5,ofs10,ofs30
+HopsFS,,479,,,,,,,2703
+HDFS,,,6803,,,,,,,8849
+FileScale,,,,6865,6746,5742,4242,2265,,,8720,8128,5359,3679,1802
