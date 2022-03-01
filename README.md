@@ -4,3 +4,4 @@
 
 - [x] [Basic Operations](basic_operations)
 - [x] [Recursive Delete Operation](recursive_delete)
+- [x] [Large Directories](large_directories)
